@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Bicicleta>
+    <Bicycle>
+        <marca>Trek</marca>
+        <model>Remedy</model>
+        <num_suspensions>1</num_suspensions>
+        <dim_rodes>26.0</dim_rodes>
+    </Bicycle>
+    <Bicycle>
+        <marca>Scott</marca>
+        <model>Genius</model>
+        <num_suspensions>2</num_suspensions>
+        <dim_rodes>29.0</dim_rodes>
+    </Bicycle>
+</Bicicleta>
